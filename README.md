@@ -15,4 +15,4 @@ Tools used: Apache Netbeans, Swing API, JDBC API, SQLite
 
 Please download and enjoy!
 
-<img src="https://github.com/GrandpaBear/MP3Cloud/img/MP3Cloud.gif" width="175" height="100" />
+![Alt Text](https://github.com/GrandpaBear/MP3Cloud/blob/master/img/MP3Cloud.gif)

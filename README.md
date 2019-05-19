@@ -1,4 +1,6 @@
 # MP3Cloud
+![Alt Text](https://github.com/GrandpaBear/MP3Cloud/blob/master/img/MP3Cloud.gif)
+
 ## Overview
 Welcome to MP3Cloud, an auto-tagger with mp3 player capabilities
 MP3Cloud offers a helping hand through the following features:
@@ -14,5 +16,3 @@ Programmed using Java and SQL.
 Tools used: Apache Netbeans, Swing API, JDBC API, SQLite
 
 Please download and enjoy!
-
-![Alt Text](https://github.com/GrandpaBear/MP3Cloud/blob/master/img/MP3Cloud.gif)
